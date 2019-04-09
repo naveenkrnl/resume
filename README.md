@@ -1,4 +1,4 @@
 # resume
 
 Just Trying to create a resume
-Visit - <a href="naveenarora.ml">here</a>
+Visit - <a href="https://naveenarora.ml/">here</a>
